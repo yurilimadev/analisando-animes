@@ -82,5 +82,5 @@ Ao investigar a correlação entre o número de espectadores e a qualidade do an
 Em suma, essa análise dos dados de animes e mangás nos permitiu obter insights valiosos sobre esse universo, e percebemos que a exploração de dados pode ser aplicada a qualquer tema com resultados interessantes. A combinação de nossa paixão e habilidades profissionais pode nos levar a oportunidades incríveis, como essa experiência com análise de dados de animes, que nos proporcionou uma visão ainda mais profunda e gratificante do universo otaku.
 
 <h1>Contato</h1>
-Email: dimitri.limaf@gmail.com
+Email: dimitri.limaf@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/yuri-lima-dev/
