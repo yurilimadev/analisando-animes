@@ -1,0 +1,1 @@
+# Analisando Animes e Mangás
