@@ -65,19 +65,6 @@ Esse dado eu achei interessante, podemos perceber que no japão já existia prod
 Essa eu esperava que sim, mas estava análisando da forma errada. Na base de dados disponibilizada pela kaggle, a coluna de espectadores estava sendo analisada como de membros da produção. E se espera que com mais membros a produção tenha uma qualidade melhor, mas isso não necessáriamente é verdade. Contudo, a questão a ser a analisada está relacionado com a fan base do anime. E não. A correlação é de 0.40, a qual é muito baixa para afirmar que possa existir uma proporcionalidade envolvida entre o número de espectadores. Mas, achei a dúvida justa, pois quanto mais o fandom maior o apoio e também o ódio. 
 
 <h1>Conclusão</h1>
-Com base na análise realizada dos dados de animes e mangás, podemos chegar a algumas conclusões interessantes.
-
-Primeiramente, foi uma experiência enriquecedora explorar dados relacionados a um tema que tenho grande afinidade, como animes e mangás. Isso mostrou o quanto a exploração de dados pode ser divertida e revelar insights valiosos sobre um assunto que nos interessa.
-
-Observamos que os cinco animes mais bem avaliados são produções de alta qualidade, o que não é surpreendente, pois animes populares tendem a receber mais atenção e reconhecimento do público.
-
-Por outro lado, os cinco animes com as piores posições nos deixam intrigados, e a arte dessas produções pode ser motivo de surpresa e até mesmo perplexidade. Isso mostra que nem todas as produções podem atender às expectativas do público.
-
-Também identificamos que os OVAs (Original Video Animations) são mais frequentes e têm mais episódios do que os ONAs (Original Net Animations), indicando que OVAs são mais comuns em comparação com ONAs.
-
-Quanto ao período com maior lançamento de animes, notamos um aumento significativo em 2019, seguido por uma leve queda em 2020 até o período de 2023. Isso pode ser influenciado pela pandemia do COVID-19, que afetou diversas indústrias, incluindo a indústria de animes.
-
-Ao investigar a correlação entre o número de espectadores e a qualidade do anime, descobrimos que a correlação é baixa (0,40), sugerindo que não há uma relação direta entre o número de espectadores e a qualidade do anime. Isso pode ser explicado pelo fato de que o sucesso de um anime não está diretamente ligado ao número de membros da equipe de produção, mas sim ao apoio e à reação do público em geral.
 
 Em suma, essa análise dos dados de animes e mangás nos permitiu obter insights valiosos sobre esse universo, e percebemos que a exploração de dados pode ser aplicada a qualquer tema com resultados interessantes. A combinação de nossa paixão e habilidades profissionais pode nos levar a oportunidades incríveis, como essa experiência com análise de dados de animes, que nos proporcionou uma visão ainda mais profunda e gratificante do universo otaku.
 
